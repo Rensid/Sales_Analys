@@ -9,8 +9,8 @@ celery_app.conf.timezone = "UTC"
 celery_app.conf.beat_max_loop_interval = 1
 celery_app.conf.update(include=["app.tasks"])
 celery_app.conf.beat_schedule = {
-    "add-every-30-seconds": {
+    "add-every-day": {
         "task": "app.tasks.get_file",
-        "schedule": 30
+        "schedule": 86400
     }
 }
