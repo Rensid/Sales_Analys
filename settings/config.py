@@ -14,5 +14,6 @@ DB_USER = os.environ.get('DB_USER')
 DB_PASS = os.environ.get('DB_PASS')
 REDIS_HOST = os.environ.get('REDIS_HOST')
 OPENAI_KEY = os.environ.get('OPENAI_KEY')
+URL_FOR_REQUEST = os.environ.get('URL_FOR_REQUEST')
 
 openai_client = AsyncOpenAI(api_key=OPENAI_KEY)
