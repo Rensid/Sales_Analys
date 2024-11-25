@@ -1,0 +1,17 @@
+<products>
+       <product>
+            <id> 1 </id>
+            <name> Product 1 </name>
+            <quantity> 100 </quantity>
+            <price> 100 </price>
+            <category> Category 1 </category>
+        </product>
+        <product>
+            <id> 2 </id>
+            <name> Product 2 </name>
+            <quantity> 50 </quantity>
+            <price> 200 </price>
+            <category> Category 2 </category>
+        </product>
+    </products>
+<sales_data>

@@ -1,0 +1,123 @@
+<sales_data date="2024-01-01">
+    <products>
+        <product>
+            <id>1</id>
+            <name>Samsung Galaxy S22</name>
+            <quantity>100</quantity>
+            <price>799.00</price>
+            <category>Smartphones</category>
+        </product>
+        <product>
+            <id>2</id>
+            <name>Apple MacBook Air</name>
+            <quantity>50</quantity>
+            <price>1299.00</price>
+            <category>Laptops</category>
+        </product>
+        <product>
+            <id>3</id>
+            <name>Canon EOS 80D</name>
+            <quantity>20</quantity>
+            <price>999.00</price>
+            <category>Cameras</category>
+        </product>
+        <product>
+            <id>4</id>
+            <name>Sony Bravia 4K TV</name>
+            <quantity>30</quantity>
+            <price>1499.00</price>
+            <category>TVs</category>
+        </product>
+        <product>
+            <id>5</id>
+            <name>Nike Air Max 270</name>
+            <quantity>100</quantity>
+            <price>129.00</price>
+            <category>Sport Shoes</category>
+        </product>
+        <product>
+            <id>6</id>
+            <name>Adidas Ultraboost</name>
+            <quantity>80</quantity>
+            <price>179.00</price>
+            <category>Sport Shoes</category>
+        </product>
+        <product>
+            <id>7</id>
+            <name>Levi's 501 Jeans</name>
+            <quantity>50</quantity>
+            <price>79.00</price>
+            <category>Clothing</category>
+        </product>
+        <product>
+            <id>8</id>
+            <name>Calvin Klein T-Shirt</name>
+            <quantity>100</quantity>
+            <price>29.00</price>
+            <category>Clothing</category>
+        </product>
+        <product>
+            <id>9</id>
+            <name>PlayStation 5 Console</name>
+            <quantity>20</quantity>
+            <price>499.00</price>
+            <category>Gaming Consoles</category>
+        </product>
+        <product>
+            <id>10</id>
+            <name>Xbox Series X Console</name>
+            <quantity>30</quantity>
+            <price>599.00</price>
+            <category>Gaming Consoles</category>
+        </product>
+        <product>
+            <id>11</id>
+            <name>HP Envy x360 Laptop</name>
+            <quantity>40</quantity>
+            <price>699.00</price>
+            <category>Laptops</category>
+        </product>
+        <product>
+            <id>12</id>
+            <name>Lenovo ThinkPad X1</name>
+            <quantity>20</quantity>
+            <price>999.00</price>
+            <category>Laptops</category>
+        </product>
+        <product>
+            <id>13</id>
+            <name>Asus ZenFone 7 Pro</name>
+            <quantity>50</quantity>
+            <price>699.00</price>
+            <category>Smartphones</category>
+        </product>
+        <product>
+            <id>14</id>
+            <name>Google Pixel 6 Pro</name>
+            <quantity>30</quantity>
+            <price>899.00</price>
+            <category>Smartphones</category>
+        </product>
+        <product>
+            <id>15</id>
+            <name>Sony WH-1000XM4 Headphones</name>
+            <quantity>20</quantity>
+            <price>349.00</price>
+            <category>Audio Accessories</category>
+        </product>
+        <product>
+            <id>16</id>
+            <name>Beats Solo Pro Headphones</name>
+            <quantity>30</quantity>
+            <price>299.00</price>
+            <category>Audio Accessories</category>
+        </product>
+        <product>
+            <id>17</id>
+            <name>Fossil Gen 5 Smartwatch</name>
+            <quantity>20</quantity>
+            <price>295.00</price>
+            <category>Smartwatches</category>
+        </product>
+    </products>
+</sales_data>
