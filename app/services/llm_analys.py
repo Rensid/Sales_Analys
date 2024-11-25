@@ -60,3 +60,9 @@ async def load_response_to_db(session: AsyncSession, response):
     analys = Analys(response=response)
     await session.add(analys)
     await session.commit()
+
+
+@log_decorator
+async def get_result(session: AsyncSession, result_id):
+    result = await session.execute(select(Analys).where(Analys.id == result_id))
+    return result.scalar()

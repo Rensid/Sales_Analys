@@ -11,3 +11,7 @@ class Products(BaseModel):
 
     class Config:
         from_attribute = True
+
+
+class AnalysSchema(BaseModel):
+    response: str
